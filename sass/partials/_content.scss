@@ -1,0 +1,84 @@
+#content {
+  padding-top: 5.438%;
+}
+
+.tituloUp {
+  padding:0% 34.188% 0% 34.125%;
+  font-size : 60px;
+  font-family: $tipografia;
+  font-weight: 200;
+}
+
+.tituloUp1 {
+  padding:0% 33.063% 0% 32.813%;
+  font-size: 60px;
+  font-family: $tipografia;
+  font-weight: 700;
+  margin-bottom: 2.938%;
+}
+
+.tituloUp2 {
+  font-family: $tipografia;
+  font-weight: 600;
+  font-size : 20px;
+  padding: 0% 29.75% 0% 29.75%;
+  text-align: center;
+  margin-bottom: 2.75% ;
+}
+
+#content .line {
+  width: 5.188%;
+  height: 1px;
+  background-color: $black;
+  margin: 0% 47.313% 3.75% 47.438%;
+}
+
+.parrafo{
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 0% 18.75% 0% 20%;
+  text-align: center;
+  margin-bottom: 2.75%;
+}
+
+#content2 {
+  max-width: 100%;
+  margin-top: 6.188%;
+  background-color: $pink;
+}
+
+#content2 img{
+  display: block;
+}
+
+#down {
+  float: left;
+  width: 50%;
+  height: 100%;
+  background-color: $pink;
+  font-family: $tipografia;
+}
+
+.subContent.imagen img {
+  width: 100%;
+  height: 100%;
+}
+
+#down #parrafo2 {
+  font-weight: 700;
+  font-size:  36px;
+  padding: 8.563% 25.563% 12.125% 12.25%;
+  text-align: start;
+}
+
+#down #parrafo3 {
+  font-weight: 300;
+  font-size: 36px;
+  padding: 0% 25.563% 8.438% 12.25%;
+  text-align: start;
+}
+
+#down #imagen {
+  padding: 0% 39.813% 14.600% 12.25%;
+}
