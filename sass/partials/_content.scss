@@ -154,3 +154,28 @@
   color: $white;
   background-color: $black;
 }
+
+#content4 {
+  background-image: url("../../img/manos.png");
+  background-size: cover;
+}
+
+#content4 h2 {
+  color: $white;
+  font-size: 60px;
+  text-align: center;
+  font-family: $tipografia;
+  padding: 200px 370px 62px 370px;
+}
+
+#content4 p {
+  color: $white;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: $tipografia;
+  padding: 0px 612px 170px 636px;
+}
+
+#content4 p a {
+  color: $white;
+}

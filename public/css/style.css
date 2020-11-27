@@ -509,3 +509,24 @@ template {
 #content3 .buttom a:hover {
   color: #fff;
   background-color: #000000; }
+
+#content4 {
+  background-image: url("../../img/manos.png");
+  background-size: cover; }
+
+#content4 h2 {
+  color: #fff;
+  font-size: 60px;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  padding: 200px 370px 62px 370px; }
+
+#content4 p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  padding: 0px 612px 170px 636px; }
+
+#content4 p a {
+  color: #fff; }
