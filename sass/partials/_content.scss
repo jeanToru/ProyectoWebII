@@ -82,3 +82,75 @@
 #down #imagen {
   padding: 0% 39.813% 14.600% 12.25%;
 }
+
+#content3 {
+  padding-top: 8.313%;
+}
+
+#content3 h2 {
+  font-family: $tipografia;
+  font-weight: 700;
+  font-size: 60px;
+  padding: 0% 0% 0% 5.25%;
+}
+
+#content3 .line {
+  width: 5.188%;
+  height: 1px;
+  background-color: $black;
+  margin: 2.5% 88.438% 5.813% 5.25%;
+}
+
+#subContainer h4 {
+  font-family: $tipografia;
+  font-weight: 700px;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+#subContainer h4 {
+  padding:2.688% 8.813% 2.688% 6.100%;
+}
+
+.subContents {
+  width: 49.8%;
+  float: left;
+  border: solid 1px $gray;
+}
+
+.subContents p {
+  padding:0% 22.813% 2.688% 6.100%;
+}
+
+.some {
+  padding-bottom:0.625%;
+}
+
+.some2 {
+  padding-bottom: 2.224%;
+}
+
+#content3 .style {
+  font-weight: 400;
+  color: $gray2;
+}
+
+#content3 .buttom {
+  margin: 4% 12% 8.5% 43.313%;
+}
+
+#content3 .buttom a {
+  text-decoration: none;
+  text-align: center;
+  font-family: $tipografia;
+  font-weight: 700;
+  font-size: 20px;
+  color: $black;
+  border: solid 1px $black;
+  padding: 2.25% 3.875% 2.25% 3.875%;
+}
+
+#content3 .buttom a:hover {
+  color: $white;
+  background-color: $black;
+}
