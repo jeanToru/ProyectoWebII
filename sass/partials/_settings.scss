@@ -1,0 +1,10 @@
+.wrapper{
+  margin: 0 auto;
+  max-width: 1600px;
+}
+
+.clearfix::after{
+  content: "";
+  clear: both;
+  display: table;
+}

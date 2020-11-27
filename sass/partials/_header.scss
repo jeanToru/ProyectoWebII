@@ -1,0 +1,77 @@
+.header {
+  max-width: 100%;
+  background-image: url("../../img/Oso.jpg");
+  background-size: cover;
+}
+
+.header {
+  max-width: 100%;
+  padding: 3.125% 0% 52.563% 0%;
+}
+
+.nav h2 {
+  float: left;
+}
+
+.nav h3 {
+  float: right;
+}
+
+.header #titulo {
+  margin-left: 11%;
+  margin-top: 1%;
+}
+
+.nav h2 a {
+  background-color: $black;
+  color: $white;
+  padding: 21px 27px;
+  margin-right: 945px;
+  font-family:  $tipografia2;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+
+.header #menu {
+  margin-right: 11%;
+  margin-top: 1%;
+}
+
+.nav h3 a {
+  margin-top: 23px;
+  color: $white;
+  border-top: solid 2px $white;
+  border-bottom: solid 2px $white;
+  font-family:  $tipografia2;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.nav h3 a:hover {
+  color: $black;
+  border-color: $black;
+}
+
+.contentImg  {
+  padding-left: 600px;
+  padding-top: 120px;
+}
+
+.contentImg h1 {
+  font-size: 200px;
+  color: $white;
+  font-family:$tipografia;
+  font-weight: 100;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.contentImg p{
+  font-family: $tipografia;
+  font-size: 88px;
+  color: $white;
+  margin: 0;
+  font-weight: bold;
+  text-align: center;
+}
