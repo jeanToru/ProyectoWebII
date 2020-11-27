@@ -530,3 +530,110 @@ template {
 
 #content4 p a {
   color: #fff; }
+
+#content5 {
+  padding: 104px 100px 118px 100px;
+  background-color: #f3f4f5; }
+
+#content5 h2 {
+  font-size: 60px;
+  margin-bottom: 28px; }
+
+#content5 .line {
+  width: 83px;
+  height: 1px;
+  background-color: #000000;
+  margin-bottom: 100px; }
+
+#subsub1 {
+  width: 559px;
+  float: left;
+  background-image: url("../../img/traje.png");
+  background-size: cover;
+  margin-right: 97px; }
+
+#subsub1 p {
+  padding: 203px 215px 163px 103px;
+  font-size: 60px;
+  color: #fff;
+  font-weight: 700;
+  text-align: right;
+  line-height: 90px; }
+
+#subsubsub1 {
+  padding: 0px 0px 32px 32px;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 2px; }
+
+#subsubsub1 a {
+  color: #fff;
+  text-decoration: none; }
+
+#subsubsub1 .buy {
+  padding: 0px 284px 0px 0px; }
+
+#subsub2 {
+  float: left; }
+
+#subMoutain {
+  width: 738px;
+  background-image: url("../../img/barranco.png");
+  background-size: cover;
+  font-family: 'Times New Roman',Times, serif;
+  font-weight: bold;
+  margin-bottom: 50px; }
+
+#subMoutain #text1 {
+  font-size: 36px;
+  padding: 89px 362px 22px 77px; }
+
+#subMoutain #text2 {
+  font-size: 20px;
+  padding: 0px 362px 164px 77px; }
+
+#subcoffe {
+  width: 328px;
+  float: left;
+  background-image: url("../../img/cafe.png");
+  background-size: cover;
+  margin-right: 80px; }
+
+#subcoffe p {
+  font-size: 20px;
+  font-family: 'Bevan',cursive;
+  text-align: center;
+  padding: 37px 81px 260px 90px;
+  line-height: 29px; }
+
+#sublentes {
+  width: 328px;
+  float: left;
+  background-image: url("../../img/lentes.png");
+  background-size: cover; }
+
+#sublentes p {
+  font-size: 30px;
+  font-family: 'Lato',sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  padding: 169px 81px 126px 90px;
+  line-height: 29px; }
+
+#content5 .buttom {
+  padding-top: 96px;
+  text-align: center; }
+
+#content5 .buttom a {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+  border: solid 1px #000000;
+  padding: 2.25% 3.875% 2.25% 3.875%; }
+
+#content5 .buttom a:hover {
+  color: #fff;
+  background-color: #000000; }
