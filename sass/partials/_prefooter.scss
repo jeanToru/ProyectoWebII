@@ -1,0 +1,100 @@
+#prefooter {
+  padding-right: 3%;
+  padding-left: 3%;
+  font-family: $tipografia2;
+  margin-bottom: 5.5%;
+}
+
+#prefooter div {
+  float: left;
+  width: 25%;
+}
+
+#prefooter ul {
+margin-top: 0%;
+}
+
+#prefooter ul li {
+  padding-bottom: 7.188%;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#prefooter a {
+  text-decoration: none;
+  color: $black;
+}
+
+#prefooter .title1 {
+  padding-top: 30.063%;
+  padding-bottom: 30.063%;
+  font-weight: 700;
+}
+
+#prefooter .title2 {
+  padding-top: 30.063%;
+  padding-bottom: 25.063%;
+  font-weight: 700;
+}
+
+#prefooter #text {
+  padding-right: 40.375%;
+  line-height: 255%;
+  margin-bottom: 3.438%;
+  font-size: 16px;
+  color: $prefooter;
+}
+
+#prefooter div form p {
+  padding-right: 20.375%;
+  margin-bottom: 2.063%;
+}
+
+#contact li {
+  color: $prefooter;
+}
+
+#prefooter #suscri .title2 {
+  padding-top: 27.063%;
+  padding-bottom: 23.063%;
+  margin-left: 20%;
+  font-weight: 700;
+}
+
+#suscri p {
+  color:$black;
+  margin-left: 20%;
+}
+
+#suscri input {
+  width: 50%;
+  background-color: $posters;
+  border: none;
+  color: $input;
+  margin-left: 20%;
+  margin-bottom: 10.125%;
+}
+
+#suscri ul {
+  padding-left: 0%;
+}
+
+#suscri .buttom {
+  margin-left: 20%;
+}
+
+#suscri .buttom a {
+  text-decoration: none;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 16px;;
+  color: $black;
+  border: solid 1px $black;
+  padding: 6.75% 12.688% 6.75% 12.688%;
+}
+
+#suscri .buttom a:hover {
+  background-color: $black;
+  color: $white;
+}

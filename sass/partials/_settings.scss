@@ -3,6 +3,10 @@
   max-width: 1600px;
 }
 
+li{
+  list-style-type: none;
+}
+
 .clearfix::after{
   content: "";
   clear: both;
