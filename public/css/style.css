@@ -724,3 +724,27 @@ li {
 #suscri .buttom a:hover {
   background-color: #000000;
   color: #fff; }
+
+#footer {
+  background-color: #f3f4f5; }
+
+.contenido {
+  padding-top: 38px;
+  padding-bottom: 38px;
+  padding-right: 5%;
+  padding-left: 5%;
+  font-size: 16px; }
+
+.contenido p {
+  color: #000000;
+  float: left;
+  margin-right: 414px; }
+
+.contenido ul {
+  float: left;
+  margin-top: 0px;
+  margin-bottom: 0px; }
+
+.contenido ul li {
+  float: left;
+  margin-left: 34px; }
