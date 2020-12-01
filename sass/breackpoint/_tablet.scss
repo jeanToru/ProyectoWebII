@@ -1,0 +1,40 @@
+@media (max-width: 967px){
+
+  .subContent {
+    float: left;
+    width: 100%;
+  }
+
+  #content3 .buttom {
+    margin: 4% 30% 8.5% 40.313%;
+  }
+
+  .subContents {
+    width: 49%;
+    height: 260px;
+    float: left;
+    border: solid 1px $gray;
+  }
+
+  #content4 h2 {
+    @include fontSize(40px);
+  }
+
+  #content4 p {
+    @include fontSize(17px);
+  }
+
+  #content5 a {
+    @include fontSize(12px);
+  }
+
+  #prefooter div {
+    float: left;
+    width: 50%;
+  }
+
+  #prefooter .listado {
+    width: 100%;
+  }
+
+}

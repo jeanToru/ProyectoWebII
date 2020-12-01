@@ -1,8 +1,10 @@
 @import "./typographies/font";
 @import "./library/normalize";
 @import "./colors/colors";
+@import "./mixin/mixin";
 @import "./partials/settings";
 @import "./partials/header";
 @import "./partials/content";
 @import "./partials/prefooter";
 @import "./partials/footer";
+@import './breackpoint/all';
