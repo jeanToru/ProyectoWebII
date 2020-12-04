@@ -322,7 +322,8 @@ li {
 .header {
   max-width: 100%;
   background-image: url("../../img/Oso.jpg");
-  background-size: cover; }
+  background-size: cover;
+  position: relative; }
 
 .header {
   max-width: 100%;
@@ -383,6 +384,53 @@ li {
   margin: 0;
   font-weight: bold;
   text-align: center; }
+
+.modal {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.8); }
+
+.modal ul {
+  padding-top: 5.313%; }
+
+.modal ul li {
+  padding-top: 2.188%;
+  padding-left: 18.75%; }
+
+.modal li a {
+  font-family: "Montserrat", sans-serif;
+  color: #b2afa8;
+  text-decoration: none;
+  font-size: 2.875rem; }
+
+.modal li a:hover {
+  color: #fff;
+  text-decoration: underline; }
+
+.close {
+  float: right;
+  margin-top: 1%;
+  margin-right: 9%;
+  font-size: 1.75rem;
+  font-weight: bold; }
+
+.close a {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  color: #b2afa8;
+  text-align: center;
+  padding: 30%;
+  text-decoration: none; }
+
+.close a:hover {
+  color: #fff; }
+
+.ocultar {
+  display: none; }
 
 #content {
   padding-top: 5.438%; }
@@ -730,28 +778,30 @@ li {
 #footer {
   background-color: #f3f4f5; }
 
-.contenido {
+.contenidoFooter {
   padding-top: 38px;
   padding-bottom: 38px;
   padding-right: 5%;
   padding-left: 5%;
   font-size: 16px; }
 
-.contenido p {
+.contenidoFooter p {
   color: #000000;
   float: left;
   margin-right: 414px; }
 
-.contenido ul {
+.contenidoFooter ul {
   float: left;
   margin-top: 0px;
   margin-bottom: 0px; }
 
-.contenido ul li {
+.contenidoFooter ul li {
   float: left;
   margin-left: 34px; }
 
 @media (max-width: 967px) {
+  .modal li a {
+    font-size: 1.875rem; }
   .subContent {
     float: left;
     width: 100%; }
@@ -781,6 +831,8 @@ li {
     font-size: 2.5rem; }
   .tituloUp1 {
     font-size: 1.25rem; }
+  .modal li a {
+    font-size: 1.5625rem; }
   .subContents {
     width: 99%;
     height: 200px; }

@@ -1,5 +1,9 @@
 @media (max-width: 967px){
 
+  .modal li a {
+    @include fontSize(30px);
+  }
+
   .subContent {
     float: left;
     width: 100%;

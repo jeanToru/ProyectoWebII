@@ -12,6 +12,10 @@
     @include fontSize(20px);
   }
 
+  .modal li a {
+    @include fontSize(25px);
+  }
+
   .subContents {
     width: 99%;
     height: 200px;
