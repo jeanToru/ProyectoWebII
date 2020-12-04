@@ -262,7 +262,7 @@
 
 #subcoffe p {
   @include fontSize(20px);
-  font-family: 'Bevan',cursive;
+  font-family: $tipografia3;
   text-align: center;
   padding: 37px 81px 260px 90px;
   line-height: 29px;
@@ -276,8 +276,8 @@
 }
 
 #sublentes p {
-  @include fontSize(30px);
-  font-family: 'Lato',sans-serif;
+  @include fontSize(37px);
+  font-family: $tipografia4;
   font-weight: bold;
   text-align: center;
   color: $white;
