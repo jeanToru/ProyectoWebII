@@ -367,7 +367,7 @@ li {
   padding-top: 120px; }
 
 .contentImg h1 {
-  font-size: 200px;
+  font-size: 12.5rem;
   color: #fff;
   font-family: "Raleway", sans-serif;
   font-weight: 100;
@@ -376,7 +376,7 @@ li {
 
 .contentImg p {
   font-family: "Raleway", sans-serif;
-  font-size: 88px;
+  font-size: 5.5rem;
   color: #fff;
   margin: 0;
   font-weight: bold;
@@ -387,13 +387,13 @@ li {
 
 .tituloUp {
   padding: 0% 34.188% 0% 34.125%;
-  font-size: 60px;
+  font-size: 3.75rem;
   font-family: "Raleway", sans-serif;
   font-weight: 200; }
 
 .tituloUp1 {
   padding: 0% 33.063% 0% 32.813%;
-  font-size: 60px;
+  font-size: 3.75rem;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   margin-bottom: 2.938%; }
@@ -401,7 +401,7 @@ li {
 .tituloUp2 {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 1.25rem;
   padding: 0% 29.75% 0% 29.75%;
   text-align: center;
   margin-bottom: 2.75%; }
@@ -415,7 +415,7 @@ li {
 .parrafo {
   font-family: 'Raleway', sans-serif;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 1.25rem;
   padding: 0% 18.75% 0% 20%;
   text-align: center;
   margin-bottom: 2.75%; }
@@ -441,13 +441,13 @@ li {
 
 #down #parrafo2 {
   font-weight: 700;
-  font-size: 36px;
+  font-size: 2.25rem;
   padding: 8.563% 25.563% 12.125% 12.25%;
   text-align: start; }
 
 #down #parrafo3 {
   font-weight: 300;
-  font-size: 36px;
+  font-size: 2.25rem;
   padding: 0% 25.563% 8.438% 12.25%;
   text-align: start; }
 
@@ -460,7 +460,7 @@ li {
 #content3 h2 {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  font-size: 60px;
+  font-size: 3.75rem;
   padding: 0% 0% 0% 5.25%; }
 
 #content3 .line {
@@ -472,7 +472,7 @@ li {
 #subContainer h4 {
   font-family: "Raleway", sans-serif;
   font-weight: 700px;
-  font-size: 30px;
+  font-size: 1.875rem;
   text-transform: uppercase; }
 
 #subContainer h4 {
@@ -504,7 +504,7 @@ li {
   text-align: center;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #000000;
   border: solid 1px #000000;
   padding: 2.25% 3.875% 2.25% 3.875%; }
@@ -519,14 +519,14 @@ li {
 
 #content4 h2 {
   color: #fff;
-  font-size: 60px;
+  font-size: 3.75rem;
   text-align: center;
   font-family: "Raleway", sans-serif;
   padding: 200px 370px 62px 370px; }
 
 #content4 p {
   color: #fff;
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: 400;
   font-family: "Raleway", sans-serif;
   padding: 0px 612px 170px 636px; }
@@ -539,7 +539,7 @@ li {
   background-color: #f3f4f5; }
 
 #content5 h2 {
-  font-size: 60px;
+  font-size: 3.75rem;
   margin-bottom: 28px; }
 
 #content5 .line {
@@ -557,7 +557,7 @@ li {
 
 #subsub1 p {
   padding: 203px 215px 163px 103px;
-  font-size: 60px;
+  font-size: 3.75rem;
   color: #fff;
   font-weight: 700;
   text-align: right;
@@ -588,11 +588,11 @@ li {
   margin-bottom: 50px; }
 
 #subMoutain #text1 {
-  font-size: 36px;
+  font-size: 2.25rem;
   padding: 89px 362px 22px 77px; }
 
 #subMoutain #text2 {
-  font-size: 20px;
+  font-size: 1.25rem;
   padding: 0px 362px 164px 77px; }
 
 #subcoffe {
@@ -603,7 +603,7 @@ li {
   margin-right: 80px; }
 
 #subcoffe p {
-  font-size: 20px;
+  font-size: 1.25rem;
   font-family: 'Bevan',cursive;
   text-align: center;
   padding: 37px 81px 260px 90px;
@@ -616,7 +616,7 @@ li {
   background-size: cover; }
 
 #sublentes p {
-  font-size: 30px;
+  font-size: 1.875rem;
   font-family: 'Lato',sans-serif;
   font-weight: bold;
   text-align: center;
@@ -632,7 +632,7 @@ li {
   text-decoration: none;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 1.25rem;
   color: #000000;
   border: solid 1px #000000;
   padding: 2.25% 3.875% 2.25% 3.875%; }
@@ -657,7 +657,7 @@ li {
 #prefooter ul li {
   padding-bottom: 7.188%;
   font-weight: 400;
-  font-size: 16px; }
+  font-size: 1rem; }
 
 #prefooter a {
   text-decoration: none;
@@ -677,7 +677,7 @@ li {
   padding-right: 40.375%;
   line-height: 255%;
   margin-bottom: 3.438%;
-  font-size: 16px;
+  font-size: 1rem;
   color: #757169; }
 
 #prefooter div form p {
@@ -716,7 +716,7 @@ li {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 1rem;
   color: #000000;
   border: solid 1px #000000;
   padding: 6.75% 12.688% 6.75% 12.688%; }

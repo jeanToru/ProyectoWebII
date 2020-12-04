@@ -4,14 +4,14 @@
 
 .tituloUp {
   padding:0% 34.188% 0% 34.125%;
-  font-size : 60px;
+  @include fontSize(60px);
   font-family: $tipografia;
   font-weight: 200;
 }
 
 .tituloUp1 {
   padding:0% 33.063% 0% 32.813%;
-  font-size: 60px;
+  @include fontSize(60px);
   font-family: $tipografia;
   font-weight: 700;
   margin-bottom: 2.938%;
@@ -20,7 +20,7 @@
 .tituloUp2 {
   font-family: $tipografia;
   font-weight: 600;
-  font-size : 20px;
+  @include fontSize(20px);
   padding: 0% 29.75% 0% 29.75%;
   text-align: center;
   margin-bottom: 2.75% ;
@@ -36,7 +36,7 @@
 .parrafo{
   font-family: 'Raleway', sans-serif;
   font-weight: 500;
-  font-size: 20px;
+  @include fontSize(20px);
   padding: 0% 18.75% 0% 20%;
   text-align: center;
   margin-bottom: 2.75%;
@@ -67,14 +67,14 @@
 
 #down #parrafo2 {
   font-weight: 700;
-  font-size:  36px;
+  @include fontSize(36px);
   padding: 8.563% 25.563% 12.125% 12.25%;
   text-align: start;
 }
 
 #down #parrafo3 {
   font-weight: 300;
-  font-size: 36px;
+  @include fontSize(36px);
   padding: 0% 25.563% 8.438% 12.25%;
   text-align: start;
 }
@@ -90,7 +90,7 @@
 #content3 h2 {
   font-family: $tipografia;
   font-weight: 700;
-  font-size: 60px;
+  @include fontSize(60px);
   padding: 0% 0% 0% 5.25%;
 }
 
@@ -104,7 +104,7 @@
 #subContainer h4 {
   font-family: $tipografia;
   font-weight: 700px;
-  font-size: 30px;
+  @include fontSize(30px);
   text-transform: uppercase;
 }
 
@@ -144,7 +144,7 @@
   text-align: center;
   font-family: $tipografia;
   font-weight: 700;
-  font-size: 20px;
+  @include fontSize(20px);
   color: $black;
   border: solid 1px $black;
   padding: 2.25% 3.875% 2.25% 3.875%;
@@ -162,7 +162,7 @@
 
 #content4 h2 {
   color: $white;
-  font-size: 60px;
+  @include fontSize(60px);
   text-align: center;
   font-family: $tipografia;
   padding: 200px 370px 62px 370px;
@@ -170,7 +170,7 @@
 
 #content4 p {
   color: $white;
-  font-size: 20px;
+  @include fontSize(20px);
   font-weight: 400;
   font-family: $tipografia;
   padding: 0px 612px 170px 636px;
@@ -186,7 +186,7 @@
 }
 
 #content5 h2 {
-  font-size: 60px;
+  @include fontSize(60px);
   margin-bottom: 28px;
 }
 
@@ -207,22 +207,24 @@
 
 #subsub1 p {
   padding: 203px 215px 163px 103px;
-  font-size: 60px;
+  @include fontSize(60px);
   color: $white;
   font-weight: 700;
   text-align: right;
   line-height: 90px;
 }
+
 #subsubsub1 {
   padding: 0px 0px 32px 32px;
   font-size: 20px;
   font-weight: 700;
   letter-spacing: 2px;
 }
-#subsubsub1 a{
+#subsubsub1 a {
   color: $white;
   text-decoration: none;
 }
+
 #subsubsub1 .buy {
   padding: 0px 284px 0px 0px;
 }
@@ -241,12 +243,12 @@
 }
 
 #subMoutain #text1 {
-  font-size: 36px;;
+  @include fontSize(36px);
   padding: 89px 362px 22px 77px;
 }
 
 #subMoutain #text2 {
-  font-size: 20px;
+  @include fontSize(20px);
   padding: 0px 362px 164px 77px;
 }
 
@@ -259,7 +261,7 @@
 }
 
 #subcoffe p {
-  font-size: 20px;;
+  @include fontSize(20px);
   font-family: 'Bevan',cursive;
   text-align: center;
   padding: 37px 81px 260px 90px;
@@ -274,7 +276,7 @@
 }
 
 #sublentes p {
-  font-size: 30px;
+  @include fontSize(30px);
   font-family: 'Lato',sans-serif;
   font-weight: bold;
   text-align: center;
@@ -292,7 +294,7 @@
   text-decoration: none;
   font-family: $tipografia;
   font-weight: 700;
-  font-size: 20px;
+  @include fontSize(20px);
   color: $black;
   border: solid 1px $black;
   padding: 2.25% 3.875% 2.25% 3.875%;
