@@ -307,6 +307,9 @@ template {
 [hidden] {
   display: none; }
 
+body {
+  margin: 0 auto; }
+
 .wrapper {
   margin: 0 auto;
   max-width: 1600px; }
@@ -809,18 +812,20 @@ li {
 .contenidoFooter p {
   color: #000000;
   float: left;
-  margin-right: 414px; }
+  margin-right: 414px;
+  margin: 0 auto; }
 
 .contenidoFooter ul {
-  float: left;
+  float: right;
   margin-top: 0px;
   margin-bottom: 0px; }
 
 .contenidoFooter ul li {
   float: left;
-  margin-left: 34px; }
+  margin-left: 34px;
+  margin-bottom: 12px; }
 
-@media (max-width: 967px) {
+@media (max-width: 1023px) {
   .modal li a {
     font-size: 1.875rem; }
   .subContent {
@@ -836,6 +841,10 @@ li {
   .subContent.imagen img {
     width: 100%;
     height: 100%; }
+  .points2 {
+    margin-left: 11.75%;
+    margin-bottom: 0;
+    margin-top: -20.75%; }
   #content4 h2 {
     font-size: 2.5rem; }
   #content4 p {
@@ -848,7 +857,7 @@ li {
   #prefooter .listado {
     width: 100%; } }
 
-@media (max-width: 693px) {
+@media (max-width: 767px) {
   .tituloUp {
     font-size: 2.5rem; }
   .tituloUp1 {
@@ -860,6 +869,10 @@ li {
   .subContents {
     width: 99%;
     height: 200px; }
+  .points2 {
+    margin-left: 11.75%;
+    margin-bottom: 0;
+    margin-top: -30.75%; }
   #content3 .buttom {
     margin: 4% 0% 8.5% 30.313%; }
   #content4 h2 {

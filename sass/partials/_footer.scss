@@ -14,10 +14,11 @@
   color: $black;
   float: left;
   margin-right: 414px;
+  margin: 0 auto;
 }
 
 .contenidoFooter ul {
-  float: left;
+  float: right;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -25,4 +26,5 @@
 .contenidoFooter ul li {
   float: left;
   margin-left: 34px;
+  margin-bottom: 12px;
 }
