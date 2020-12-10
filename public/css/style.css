@@ -348,6 +348,17 @@ li {
   text-decoration: none;
   text-transform: uppercase; }
 
+.points {
+  color: black;
+  font-size: 9rem;
+  text-align: center;
+  margin-top: 5.625%;
+  padding-bottom: 5.812%;
+  margin-bottom: 4.437%; }
+
+.points span {
+  color: white; }
+
 .header #menu {
   margin-right: 11%;
   margin-top: 1%; }
@@ -482,24 +493,34 @@ li {
   float: left;
   width: 50%;
   height: 100%;
-  background-color: #ffe9e2;
-  font-family: "Raleway", sans-serif; }
+  background-color: #ffe9e2; }
 
 .subContent.imagen img {
   width: 100%;
-  height: 100%; }
+  height: 690px; }
 
 #down #parrafo2 {
   font-weight: 700;
   font-size: 2.25rem;
   padding: 8.563% 25.563% 12.125% 12.25%;
-  text-align: start; }
+  text-align: start;
+  font-family: "Raleway", sans-serif; }
 
 #down #parrafo3 {
   font-weight: 300;
   font-size: 2.25rem;
   padding: 0% 25.563% 8.438% 12.25%;
-  text-align: start; }
+  text-align: start;
+  font-family: "Raleway", sans-serif; }
+
+.points2 {
+  margin-left: 11.75%;
+  font-size: 4.5rem;
+  color: #d6ae9f;
+  margin-top: -137px; }
+
+.points2 span {
+  color: black; }
 
 #down #imagen {
   padding: 0% 39.813% 14.600% 12.25%; }
@@ -812,6 +833,9 @@ li {
     height: 260px;
     float: left;
     border: solid 1px #f2f4f5; }
+  .subContent.imagen img {
+    width: 100%;
+    height: 100%; }
   #content4 h2 {
     font-size: 2.5rem; }
   #content4 p {

@@ -57,12 +57,11 @@
   width: 50%;
   height: 100%;
   background-color: $pink;
-  font-family: $tipografia;
 }
 
 .subContent.imagen img {
   width: 100%;
-  height: 100%;
+  height: 690px;
 }
 
 #down #parrafo2 {
@@ -70,6 +69,7 @@
   @include fontSize(36px);
   padding: 8.563% 25.563% 12.125% 12.25%;
   text-align: start;
+  font-family: $tipografia;
 }
 
 #down #parrafo3 {
@@ -77,6 +77,18 @@
   @include fontSize(36px);
   padding: 0% 25.563% 8.438% 12.25%;
   text-align: start;
+  font-family: $tipografia;
+}
+
+.points2 {
+  margin-left: 11.75%;
+  font-size: 4.5rem;
+  color: #d6ae9f;
+  margin-top: -137px;
+}
+
+.points2 span {
+  color: black;
 }
 
 #down #imagen {
