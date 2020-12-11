@@ -8,6 +8,23 @@
     position: relative;
   }
 
+
+  .contentImg  {
+  padding-left: 0;
+  padding-top: 120px;
+  }
+
+
+.modal {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.8);
+  }
+
   .modal li a {
     @include fontSize(30px);
   }
