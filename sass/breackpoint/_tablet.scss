@@ -59,10 +59,19 @@
 
   #content4 h2 {
     @include fontSize(40px);
+    padding-top: 22%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 0%;
+
   }
 
   #content4 p {
     @include fontSize(17px);
+    padding-top: 11%;
+    padding-left: 36%;
+    padding-right: 30%;
+    padding-bottom: 18%;
   }
 
   #content5 a {
@@ -76,6 +85,12 @@
 
   #prefooter .listado {
     width: 100%;
+  }
+
+  .contenidoFooter ul {
+    float: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 
 }
